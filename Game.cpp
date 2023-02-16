@@ -179,7 +179,6 @@ Game::~Game()
 	for (auto* i : this->powerUps) {
 		delete i;
 	}
-	
 }
 
 //accesor
