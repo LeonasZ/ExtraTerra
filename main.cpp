@@ -35,8 +35,7 @@ int main()
 					{
 					case 0:
 					{
-						window.clear();
-						window.display();
+						
 
 						Game game(window);
 						while (!game.isRunning()) {
